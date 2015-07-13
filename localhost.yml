@@ -31,6 +31,8 @@
       - curl
       - jq
       - ansible
+      - docker
+      - boot2docker
       - packer
 
     # Tap external Homebrew Cask repositories.
