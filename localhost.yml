@@ -32,6 +32,7 @@
       - jq
       - ansible
       - docker
+      - docker-compose
       - docker-machine
       - boot2docker
       - packer
